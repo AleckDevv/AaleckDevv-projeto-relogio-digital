@@ -26,6 +26,7 @@ Abaixo estão os principais diretórios e arquivos do projeto:
 
 ## Demonstração
 Acesse o projeto funcionando clicando aqui.
+- ``` https://aleckdevv.github.io/AaleckDevv-projeto-relogio-digital/
 
 ## Créditos
 💻 **Desenvolvido por**: Alex Soares Lopes

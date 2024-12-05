@@ -24,11 +24,13 @@ Abaixo estão os principais diretórios e arquivos do projeto:
    git clone https://github.com/seu-usuario/relogio-digital.git
 
 
-Demonstração
-``` https://aleckdevv.github.io/AaleckDevv-projeto-relogio-digital/
+## Demonstração
+Acesse o projeto funcionando clicando aqui.
 
 ## Créditos
-Feito por: Alex Soares Lopes
+💻 **Desenvolvido por**: Alex Soares Lopes
+🎨 Estilo inspirado em práticas modernas de design.
 
 ## Licença
-Este projeto é apenas para fins educacionais e de demonstração. Todos os direitos sobre imagens e outros conteúdos são reservados aos seus respectivos proprietários.
+📄 Este projeto é apenas para fins educacionais e de demonstração.
+🔒 Todos os direitos sobre imagens e outros conteúdos são reservados aos seus respectivos proprietários.

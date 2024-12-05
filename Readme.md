@@ -24,7 +24,7 @@ Abaixo estão os principais diretórios e arquivos do projeto:
    git clone https://github.com/seu-usuario/relogio-digital.git
 
 
-Demonstração
+## Demonstração
 ``` https://aleckdevv.github.io/AaleckDevv-projeto-relogio-digital/
 
 ## Créditos
